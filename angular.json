@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sport-shop"
+    }
+  },
+  "defaultProject": "sport-shop",
+  "cli": {
+    "analytics": false
+  }
 }
